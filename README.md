@@ -4,6 +4,13 @@ The labels for the open-source dataset used in the paper "Topology-Preserving Au
 ## Description
 The labels are stored in .json files, and each json has the following structure:
 
+{
+l_points=[{point_set=[[...]], cls=c},...],
+r_points=[{point_set=[[...]], cls=c'},...],
+l_tree=[[x,y],...], 
+r_tree=[[x',y'],...]
+}
+
 l_points: A list containing centerline point coordinates and the vessel segment labels of l_tree. Each element of the list is a dictionary with 2 fields: point_set (all point coordinates of this segment) and cls (label of this segment).
 
 r_points: A list containing centerline point coordinates and the vessel segment labels of r_tree. Each element of the list is a dictionary with 2 fields: point_set (all point coordinates of this segment) and cls (label of this segment).
