@@ -5,10 +5,10 @@ The labels for the open-source dataset used in the paper "Topology-Preserving Au
 The labels are stored in .json files, and each json has the following structure:
 ```
 {
-l_points=[{point_set=[[...]], cls=c},...],
-r_points=[{point_set=[[...]], cls=c'},...],
-l_tree=[[x,y],...], 
-r_tree=[[x',y'],...]
+  l_points=[{point_set=[[...]], cls=c},...],
+  r_points=[{point_set=[[...]], cls=c'},...],
+  l_tree=[[x,y],...], 
+  r_tree=[[x',y'],...]
 }
 ```
 
