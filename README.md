@@ -1,4 +1,4 @@
-# TopoLab-Labels
+# Vessel labels for the open-source dataset
 The labels provided for the open-source dataset used in the paper "Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier"
 
 ## Description
