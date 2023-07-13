@@ -6,7 +6,7 @@
 
 # Overview
 
-In this repo, we provided labels for the open-source dataset used in the paper "Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier".
+In this repo, we provide labels for the open-source dataset used in the paper "Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier".
 
 
 ## Get Started
