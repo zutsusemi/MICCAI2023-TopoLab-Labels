@@ -1,7 +1,7 @@
 # MICCAI 2023: TopoLab
 
 **Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier** \
-*Zhixing Zhang, Ziwei Zhao, Dong Wang, Shishuang Zhao, Yuhang Liu, Jia Liu, Liwei Wang* \
+*Zhixing Zhang^*^, Ziwei Zhao^*^, Dong Wang, Shishuang Zhao, Yuhang Liu, Jia Liu, Liwei Wang* \
 [7/13/2023] [MICCAI 2023] [Arxiv] 
 
 <p float="left">
