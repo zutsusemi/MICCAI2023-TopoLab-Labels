@@ -16,7 +16,7 @@ In this repo, we provided labels for the open-source dataset used in the paper "
 
 ## Get Started
 
-![image-20230713111759788](C:\Users\yuuki\AppData\Roaming\Typora\typora-user-images\image-20230713111759788.png)
+![image-20230713111759788](image-20230713111759788.png)
 
 Given a vessel tree, we can split it into *segments* using *bifurcation rules* illustrated in fig.1. That is, we use consecutive *bifurcation points* to mark the boundary of one vessel segment. Each of the vessel segment has only ONE class. 
 
