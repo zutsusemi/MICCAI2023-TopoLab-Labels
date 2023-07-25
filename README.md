@@ -95,5 +95,10 @@ If you have any question, feel free to contact Zhixing Zhang at zhangzhixing@stu
 If you find this repository useful, please consider citing our paper:
 
 ```
-TBD
+@article{zhang2023topolab,
+  title={Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier},
+  author={Zhang, Zhixing and Zhao, Ziwei and Wang, Dong and Zhao, Shishuang and Liu, Yuhang and Liu, Jia and Wang, Liwei},
+  journal={arXiv preprint arXiv:2307.11959},
+  year={2023}
+}
 ```
