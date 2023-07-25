@@ -88,7 +88,7 @@ for f_ in f:
 
 ## 🙋‍♀️ Feedback and Contact
 
-If you have any question, feel free to contact zhangzhixing@stu.pku.edu.cn .
+If you have any question, feel free to contact Zhixing Zhang at zhangzhixing@stu.pku.edu.cn .
 
 ## 📝 Citation
 
