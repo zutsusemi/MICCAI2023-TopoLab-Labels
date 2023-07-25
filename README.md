@@ -4,7 +4,7 @@
 *Zhixing Zhang\*, Ziwei Zhao\*, Dong Wang, Shishuang Zhao, Yuhang Liu, Jia Liu, Liwei Wang* \
 [7/13/2023] [MICCAI 2023] [[Arxiv](http://arxiv.org/abs/2307.11959)]
 
-# Overview
+## Overview
 
 In this repo, we provide labels for the open-source dataset used in the paper "Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier".
 
