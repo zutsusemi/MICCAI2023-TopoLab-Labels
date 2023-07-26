@@ -92,7 +92,7 @@ If you have any question, feel free to contact Zhixing Zhang at zhangzhixing@stu
 
 ## 📝 Citation
 
-If you find this repository useful, please consider citing our paper:
+If you find this repository useful, please consider starring this repo & citing our paper:
 
 ```
 @article{zhang2023topolab,
