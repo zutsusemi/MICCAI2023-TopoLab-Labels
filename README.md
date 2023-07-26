@@ -90,7 +90,7 @@ for f_ in f:
 
 If you have any question, feel free to contact Zhixing Zhang at zhangzhixing@stu.pku.edu.cn .
 
-## 📝 Citation
+## :star: Starring & 📝 Citation
 
 If you find this repository useful, please consider starring this repo & citing our paper:
 
