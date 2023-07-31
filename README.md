@@ -9,7 +9,7 @@
 In this repo, we provide labels for the open-source dataset used in the paper "Topology-Preserving Automatic Labeling of Coronary Arteries via Anatomy-aware Connection Classifier".
 
 
-## Get Started
+## :point_right: Get Started
 
 ![image-20230713111759788](image-20230713111759788.png)
 
@@ -36,11 +36,11 @@ The labels are stored in .json files, and each json has the following structure:
 
 *r_tree*: A list storing the structure of r_tree, each element [x, y] is an edge of the tree, where x is the x-th segment in r_points and y is the y-th segment in r_points.
 
-## How to Use
+## :grey_question: How to Use
 
 You need to first download the original open-source dataset.
 
-Then, you need to *align the label files with the images*. The file name of the labels are the same as the corresponding images. Note that you probably need to reverse (and/or) swap the images' axis to align them. Before training your model, you should visualize the images and labels to ensure the alignment is correct.
+Then, you need to clone this repo, and unzip labels.zip to see the labels. The password to unzip the .zip file can be found at [here](https://pan.baidu.com/s/1CYwj4PLm4w6ULUPh-KXLQg) with code l3s3. After unzipping the files, you need to *align the label files with the images*. The file name of the labels are the same as the corresponding images. Note that you probably need to reverse (and/or) swap the images' axis to align them. Before training your model, you should visualize the images and labels to ensure the alignment is correct.
 
 
 
@@ -90,9 +90,9 @@ for f_ in f:
 
 If you have any question, feel free to contact Zhixing Zhang at zhangzhixing@stu.pku.edu.cn .
 
-## 📝 Citation
+## :star: Staring & 📝 Citation
 
-If you find this repository useful, please consider citing our paper:
+If you find this repository useful, please consider starring this repo & citing our paper:
 
 ```
 @article{zhang2023topolab,
